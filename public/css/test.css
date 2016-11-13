@@ -1,0 +1,12 @@
+iframe{
+    border:none;
+    width:1200px;
+    height: 1200px;
+    display:block;
+}
+
+#id p{
+	font:helvetica;
+	font-size: 18px;
+
+}
